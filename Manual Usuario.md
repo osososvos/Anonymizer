@@ -1,4 +1,3 @@
- 
 # Anonymizer
 ![image](https://github.com/user-attachments/assets/c5d659af-f070-4309-ae8b-fc81e13c65a6)
 
